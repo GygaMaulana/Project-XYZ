@@ -1,3 +1,3 @@
 # Project-XYZ
 
-- Produc Page
+- Product Page
